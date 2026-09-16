@@ -50,23 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alexslesh1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexslesh1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexslesh1&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexslesh1&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
-
----
-
 ## 🌐 Connect with me
 
 <p align="left">
